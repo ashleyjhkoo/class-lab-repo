@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Ashley Junghee Koo]  
+- Certification: [Meta Frontend Development]  
 
 ## Instructions
 Please replace the placeholders with your details:
